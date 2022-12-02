@@ -1,0 +1,1 @@
+This repo is a shell basic of ALX Software engineering program. Using a shell script is most useful for repetitive tasks that may be time consuming to executeby typing one line at a time. Some basic shell scripts were applied in this repo
