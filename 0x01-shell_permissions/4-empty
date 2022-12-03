@@ -1,0 +1,5 @@
+#!/bin/bash
+
+if [[ ! -e hello ]]; then
+	    touch hello
+fi

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+for i in $(groups); do
+	echo "$USER is part of: $i"
+done
